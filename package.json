@@ -1,0 +1,12 @@
+{
+  "name": "overwebs-fonts",
+  "version": "0.0.1",
+  "description": "The Overwatch fonts",
+  "main": "overwebs-fonts.js",
+  "repository": "git@github.com:ruphin/overwebs-fonts.git",
+  "author": "Goffert van Gool",
+  "license": "MIT",
+  "scripts": {
+    "publish": "git add overwebs-fonts.js"
+  }
+}
