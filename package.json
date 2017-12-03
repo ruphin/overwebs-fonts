@@ -1,6 +1,6 @@
 {
   "name": "overwebs-fonts",
-  "version": "1.0.0-rc1",
+  "version": "1.0.0",
   "description": "The Overwatch fonts",
   "main": "overwebs-fonts.js",
   "repository": "git@github.com:ruphin/overwebs-fonts.git",
